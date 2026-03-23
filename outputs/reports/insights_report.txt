@@ -1,0 +1,54 @@
+
+AUTOMOBILE SEASONAL DEMAND ANALYSIS
+=====================================
+Author: Abhiram N
+Date: 2024
+
+1. OVERVIEW
+-----------
+Total vehicles analysed : 545,604
+Date range              : 2014 – 2015
+Average selling price   : $13,734
+
+2. KEY FINDINGS
+---------------
+Peak sales season  : Winter (348,409 vehicles)
+Lowest sales season: Spring (98,571 vehicles)
+Top vehicle type   : Sedan (241,332 units)
+Second vehicle type: Suv (143,844 units)
+
+Average price by season:
+  Winter : $13,271
+  Spring : $13,956
+  Summer : $15,146
+  Fall   : $0
+
+3. INSIGHTS
+-----------
+- Winter is the peak season for vehicle sales, likely driven by
+  year-end dealer clearances, tax decisions, and holiday promotions.
+
+- Sedans dominate sales across all seasons due to affordability
+  and fuel efficiency, especially in the used car market.
+
+- Gas prices show an inverse relationship with sales volume —
+  when fuel prices rise, overall vehicle demand shifts toward
+  more fuel-efficient options.
+
+- Average selling prices are relatively stable across seasons,
+  suggesting price is not the primary seasonal driver —
+  inventory availability and promotions are.
+
+4. RECOMMENDATIONS
+------------------
+- Dealers should increase sedan inventory heading into winter
+- Marketing budgets should peak in Oct–Nov to capture winter demand
+- When fuel prices rise, promote EVs and fuel-efficient sedans
+- Spring shows lowest sales — ideal time for clearance promotions
+
+5. METHODOLOGY
+--------------
+- Data sources : Kaggle vehicle sales, EIA fuel prices, historical weather
+- Tools used   : Python (Pandas, Matplotlib, Seaborn, Plotly)
+- Dashboard    : Interactive HTML dashboard (Plotly)
+- Notebooks    : 5 Jupyter notebooks covering cleaning to dashboard

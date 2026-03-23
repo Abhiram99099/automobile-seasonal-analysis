@@ -108,6 +108,19 @@ Open `dashboards/automobile_dashboard.html` in any browser.
 
 ---
 
+## Screenshots
+
+### Overview
+![Dashboard Overview](outputs/charts/dashboard_overview.png)
+
+### Vehicle Type Breakdown
+![Vehicle Breakdown](outputs/charts/vehicle_breakdown.png)
+
+### Gas Price vs Sales
+![Gas vs Sales](outputs/charts/gas_vs_sales.png)
+
+---
+
 ## Recommendations
 
 1. Stock more sedans before winter — highest demand period
